@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rxjs-forkJoin"
+    }
+  },
+  "defaultProject": "rxjs-forkJoin",
+  "cli": {
+    "analytics": false
+  }
 }
